@@ -13,7 +13,7 @@ How to Installation
       pkg install git
       git clone https://github.com/fernnje/btc
       cd btc
-      php bot.php```
+      php bot.php
 3. Masukkan key nya...
 4. Lalu masukkan Querry ID dari Bot Telegram (tutorial ada di server discord)
 
