@@ -7,13 +7,13 @@ How to Installation
 
 1. Download Termux on your phone
 2. Enter this command into termux
-      <em>pkg update</em>
-      <em>pkg upgrade</em>
-      <em>pkg install php</em>
-      <em>pkg install git</em>
-      <em>git clone https://github.com/fernnje/btc</em>
-      <em>cd btc</em>
-      <em>php bot.php</em>
+      ```pkg update
+      pkg upgrade
+      pkg install php
+      pkg install git
+      git clone https://github.com/fernnje/btc
+      cd btc
+      php bot.php```
 3. Masukkan key nya...
 4. Lalu masukkan Querry ID dari Bot Telegram (tutorial ada di server discord)
 
