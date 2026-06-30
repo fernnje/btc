@@ -3,7 +3,7 @@ Claim BTC via Bot Telegram
 
 Key: <i>btc_claim</i>
 
-#How to Installation
+# How to Installation
 
 1. Download Termux on your phone
 2. Enter this command into termux
