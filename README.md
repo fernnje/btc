@@ -1,7 +1,7 @@
 # Claim Bitcoin
 Claim BTC via Bot Telegram
 
-Key: <i>btc_claim</i>
+Key: <a href="https://discord.gg/SpQrYQnzb7">Click Here</a>
 
 # How to Installation
 
